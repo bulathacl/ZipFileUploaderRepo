@@ -1,0 +1,13 @@
+﻿@model string;
+@{
+    ViewData["Title"] = "Submit File Results";
+}
+
+@{
+    var className = !string.IsNullOrWhiteSpace(Model) ? "text-danger" : "text-success";
+    var message = !string.IsNullOrWhiteSpace(Model) ? Model : "Sucessfully Submitted File.";
+    <div class="@className">
+        @message
+    </div>
+    <a href="/Home">Go Back</a>
+}

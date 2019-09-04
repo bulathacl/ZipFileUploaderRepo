@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h3>Zip File Processor</h3>
+    <form asp-controller="Home" asp-action="SubmitFile"
+          enctype="multipart/form-data" method="post">
+        <div>
+            <input accept=".zip" required type="file" name="file" style="border: 1px solid #ccc; display: inline-block; padding: 6px 12px; cursor: pointer;"/>
+        </div>
+        <button type="submit" class="btn btn-primary" style="margin-top:5px">Submit</button>
+    </form>
+</div>

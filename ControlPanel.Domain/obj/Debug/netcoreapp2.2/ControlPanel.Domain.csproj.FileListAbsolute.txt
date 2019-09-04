@@ -1,0 +1,12 @@
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\bin\Debug\netcoreapp2.2\ControlPanel.Domain.deps.json
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\bin\Debug\netcoreapp2.2\ControlPanel.Domain.dll
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\bin\Debug\netcoreapp2.2\ControlPanel.Domain.pdb
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\obj\Debug\netcoreapp2.2\ControlPanel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\obj\Debug\netcoreapp2.2\ControlPanel.Domain.AssemblyInfoInputs.cache
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\obj\Debug\netcoreapp2.2\ControlPanel.Domain.AssemblyInfo.cs
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\obj\Debug\netcoreapp2.2\ControlPanel.Domain.csproj.CopyComplete
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\obj\Debug\netcoreapp2.2\ControlPanel.Domain.dll
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\obj\Debug\netcoreapp2.2\ControlPanel.Domain.pdb
+C:\Users\Chandula.GEVEO\source\repos\ZipFileUploader\ControlPanel.Domain\obj\Debug\netcoreapp2.2\ControlPanel.Domain.csprojAssemblyReference.cache
